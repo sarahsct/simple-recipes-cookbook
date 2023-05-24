@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sarahsct.github.io/simple-recipes-cookbook/sitemap.xml.gz
