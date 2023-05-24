@@ -1,6 +1,6 @@
-url: cookbook.eirik.re/
+url: sarahsct.github.io/simple-recipes-cookbook/
 edit:
-  repo: github.com/engeir/simple-recipes-cookbook/edit
+  repo: github.com/sarahsct/simple-recipes-cookbook/edit
   base: /src
   label: "Rediger denne siden"
 input: ./src
